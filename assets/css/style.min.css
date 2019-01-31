@@ -1,0 +1,12 @@
+@charset "UTF-8";
+html{
+  height:100%;
+}
+body{
+  font-family: 'Poppins', sans-serif !important;
+  display: flex;
+  flex-direction: column;
+  height:100%;
+  background: #f0f0f0;
+  letter-spacing:.02rem
+}
